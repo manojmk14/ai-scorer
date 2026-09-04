@@ -1,0 +1,321 @@
+{
+  "url": "https://bcwebwise.com",
+  "final_url": "https://www.bcwebwise.com/",
+  "audit_date": "2026-09-03T11:39:07.793160+00:00",
+  "overall_score": 89,
+  "overall_label": "Very Good",
+  "scores": {
+    "crawlability": 25,
+    "understandability": 21,
+    "citation_readiness": 24,
+    "technical": 19
+  },
+  "crawlability": {
+    "score": 25,
+    "max_score": 30,
+    "findings": [
+      {
+        "title": "HTTP accessibility",
+        "status": "pass",
+        "points": 8,
+        "max_points": 8,
+        "message": "Page returned HTTP 200."
+      },
+      {
+        "title": "robots.txt",
+        "status": "pass",
+        "points": 5,
+        "max_points": 5,
+        "message": "robots.txt is accessible."
+      },
+      {
+        "title": "AI crawler access",
+        "status": "pass",
+        "points": 4,
+        "max_points": 4,
+        "message": "4/4 selected AI crawler/product tokens can access the submitted URL."
+      },
+      {
+        "title": "XML sitemap",
+        "status": "pass",
+        "points": 5,
+        "max_points": 5,
+        "message": "Sitemap detected at https://www.bcwebwise.com/sitemap.xml."
+      },
+      {
+        "title": "HTTPS",
+        "status": "pass",
+        "points": 3,
+        "max_points": 3,
+        "message": "Page is served over HTTPS."
+      }
+    ]
+  },
+  "understandability": {
+    "score": 21,
+    "max_score": 25,
+    "findings": [
+      {
+        "title": "Page title",
+        "status": "pass",
+        "points": 3,
+        "max_points": 3,
+        "message": "Page has a title."
+      },
+      {
+        "title": "Primary heading",
+        "status": "pass",
+        "points": 4,
+        "max_points": 4,
+        "message": "Page contains exactly one H1."
+      },
+      {
+        "title": "Meta description",
+        "status": "pass",
+        "points": 3,
+        "max_points": 3,
+        "message": "Page has a meta description."
+      },
+      {
+        "title": "Content depth",
+        "status": "pass",
+        "points": 4,
+        "max_points": 5,
+        "message": "889 words of extracted page text."
+      },
+      {
+        "title": "Content depth",
+        "status": "pass",
+        "points": 14,
+        "max_points": 5,
+        "message": "889 words of extracted page text."
+      },
+      {
+        "title": "Heading structure",
+        "status": "pass",
+        "points": 4,
+        "max_points": 4,
+        "message": "27 headings detected."
+      },
+      {
+        "title": "Semantic HTML",
+        "status": "pass",
+        "points": 3,
+        "max_points": 3,
+        "message": "Semantic HTML elements are present."
+      }
+    ]
+  },
+  "citation_readiness": {
+    "score": 24,
+    "max_score": 25,
+    "findings": [
+      {
+        "title": "Page identity",
+        "status": "pass",
+        "points": 5,
+        "max_points": 5,
+        "message": "Title and primary heading provide a clear page identity."
+      },
+      {
+        "title": "Extractable content",
+        "status": "pass",
+        "points": 5,
+        "max_points": 5,
+        "message": "Page contains substantial extractable text."
+      },
+      {
+        "title": "Structured data",
+        "status": "pass",
+        "points": 5,
+        "max_points": 5,
+        "message": "JSON-LD structured data detected: Answer, FAQPage, GeoCoordinates, LocalBusiness, Organization, Person, PostalAddress, Question, SearchAction, WebSite"
+      },
+      {
+        "title": "Internal context",
+        "status": "pass",
+        "points": 3,
+        "max_points": 3,
+        "message": "66 internal links detected."
+      },
+      {
+        "title": "Image accessibility",
+        "status": "warning",
+        "points": 1,
+        "max_points": 2,
+        "message": "17 of 51 images lack alt attributes."
+      },
+      {
+        "title": "Readable content structure",
+        "status": "pass",
+        "points": 5,
+        "max_points": 5,
+        "message": "Multiple paragraph blocks provide extractable content."
+      }
+    ]
+  },
+  "technical": {
+    "score": 19,
+    "max_score": 20,
+    "findings": [
+      {
+        "title": "Canonical URL",
+        "status": "pass",
+        "points": 4,
+        "max_points": 4,
+        "message": "Canonical URL is present."
+      },
+      {
+        "title": "Structured data",
+        "status": "pass",
+        "points": 4,
+        "max_points": 4,
+        "message": "JSON-LD structured data detected."
+      },
+      {
+        "title": "OpenGraph metadata",
+        "status": "pass",
+        "points": 3,
+        "max_points": 3,
+        "message": "OpenGraph title and description are present."
+      },
+      {
+        "title": "HTTP response time",
+        "status": "warning",
+        "points": 2,
+        "max_points": 3,
+        "message": "Initial HTTP response took 1288 ms."
+      },
+      {
+        "title": "Indexing directives",
+        "status": "pass",
+        "points": 3,
+        "max_points": 3,
+        "message": "No HTTP noindex directive detected."
+      },
+      {
+        "title": "HTML content type",
+        "status": "pass",
+        "points": 3,
+        "max_points": 3,
+        "message": "Page is served as HTML."
+      }
+    ]
+  },
+  "page": {
+    "title": "BC Web Wise | 360 Digital Marketing Agency for Growth",
+    "title_length": 53,
+    "meta_description": "Grow your brand with BC Web Wise, a leading 360 digital marketing agency. We offer a full range of services from SEO & social media to website development, for all your digital marketing needs.",
+    "meta_description_length": 193,
+    "h1_count": 1,
+    "h1_text": [
+      "Smart. Creative. Effective."
+    ],
+    "heading_counts": {
+      "h1": 1,
+      "h2": 19,
+      "h3": 1,
+      "h4": 6,
+      "h5": 0,
+      "h6": 0
+    },
+    "word_count": 889,
+    "paragraph_count": 35,
+    "sentence_count": 56,
+    "internal_links": 66,
+    "external_links": 10,
+    "image_count": 51,
+    "images_with_alt": 34,
+    "images_without_alt": 17,
+    "canonical": "https://www.bcwebwise.com/",
+    "robots_meta": null,
+    "og_title": "World's Best Digital Agency, Digital Marketing Solutions, BC Web Wise Your Friendly Digital Fish!",
+    "og_description": "If you are searching for the World's Best Digital Agency, then your search ends here at BC Web Wise - Your Friendly Digital Fish! for your all Digital Marketing Solutions.",
+    "schema_present": true,
+    "schema_types": [
+      "Answer",
+      "FAQPage",
+      "GeoCoordinates",
+      "LocalBusiness",
+      "Organization",
+      "Person",
+      "PostalAddress",
+      "Question",
+      "SearchAction",
+      "WebSite"
+    ],
+    "semantic_elements": {
+      "header": 0,
+      "nav": 1,
+      "main": 0,
+      "article": 0,
+      "section": 15,
+      "aside": 0,
+      "footer": 0
+    },
+    "script_count": 31,
+    "javascript_heavy_signal": false,
+    "text_html_ratio": 0.0541
+  },
+  "robots": {
+    "url": "https://www.bcwebwise.com/robots.txt",
+    "found": true,
+    "status_code": 200,
+    "sitemap_urls": [
+      "https://www.bcwebwise.com/sitemap.xml",
+      "https://www.bcwebwise.com/sitemap/others-sitemap.xml",
+      "https://www.bcwebwise.com/sitemap/home-services-sitemap.xml",
+      "https://www.bcwebwise.com/sitemap/blogs-sitemap.xml"
+    ],
+    "error": null,
+    "bots": {
+      "GPTBot": {
+        "company": "OpenAI",
+        "allowed": true,
+        "matched_path": "https://www.bcwebwise.com/"
+      },
+      "ClaudeBot": {
+        "company": "Anthropic",
+        "allowed": true,
+        "matched_path": "https://www.bcwebwise.com/"
+      },
+      "Google-Extended": {
+        "company": "Google",
+        "allowed": true,
+        "matched_path": "https://www.bcwebwise.com/"
+      },
+      "Googlebot": {
+        "company": "Google Search",
+        "allowed": true,
+        "matched_path": "https://www.bcwebwise.com/"
+      },
+      "Google-GeminiNotebook": {
+        "company": "Google Gemini Notebook",
+        "allowed": true,
+        "matched_path": "https://www.bcwebwise.com/"
+      },
+      "PerplexityBot": {
+        "company": "Perplexity",
+        "allowed": true,
+        "matched_path": "https://www.bcwebwise.com/"
+      },
+      "Amazonbot": {
+        "company": "Amazon",
+        "allowed": true,
+        "matched_path": "https://www.bcwebwise.com/"
+      },
+      "Bytespider": {
+        "company": "ByteDance",
+        "allowed": true,
+        "matched_path": "https://www.bcwebwise.com/"
+      }
+    }
+  },
+  "sitemap": {
+    "found": true,
+    "url": "https://www.bcwebwise.com/sitemap.xml",
+    "status_code": 200,
+    "is_xml": true,
+    "error": null
+  }
+}
