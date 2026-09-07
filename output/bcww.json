@@ -1,6 +1,6 @@
 {
   "url": "https://bcwebwise.com",
-  "final_url": "https://www.bcwebwise.com/",
+  "final_url": "https://www.abc.com/",
   "audit_date": "2026-09-03T11:39:07.793160+00:00",
   "overall_score": 89,
   "overall_label": "Very Good",
@@ -40,7 +40,7 @@
         "status": "pass",
         "points": 5,
         "max_points": 5,
-        "message": "Sitemap detected at https://www.bcwebwise.com/sitemap.xml."
+        "message": "Sitemap detected at https://www.abc.com/sitemap.xml."
       },
       {
         "title": "HTTPS",
@@ -227,7 +227,7 @@
     "image_count": 51,
     "images_with_alt": 34,
     "images_without_alt": 17,
-    "canonical": "https://www.bcwebwise.com/",
+    "canonical": "https://www.abc.com/",
     "robots_meta": null,
     "og_title": "World's Best Digital Agency, Digital Marketing Solutions, BC Web Wise Your Friendly Digital Fish!",
     "og_description": "If you are searching for the World's Best Digital Agency, then your search ends here at BC Web Wise - Your Friendly Digital Fish! for your all Digital Marketing Solutions.",
@@ -258,62 +258,62 @@
     "text_html_ratio": 0.0541
   },
   "robots": {
-    "url": "https://www.bcwebwise.com/robots.txt",
+    "url": "https://www.abc.com/robots.txt",
     "found": true,
     "status_code": 200,
     "sitemap_urls": [
-      "https://www.bcwebwise.com/sitemap.xml",
-      "https://www.bcwebwise.com/sitemap/others-sitemap.xml",
-      "https://www.bcwebwise.com/sitemap/home-services-sitemap.xml",
-      "https://www.bcwebwise.com/sitemap/blogs-sitemap.xml"
+      "https://www.abc.com/sitemap.xml",
+      "https://www.abc.com/sitemap/others-sitemap.xml",
+      "https://www.abc.com/sitemap/home-services-sitemap.xml",
+      "https://www.abc.com/sitemap/blogs-sitemap.xml"
     ],
     "error": null,
     "bots": {
       "GPTBot": {
         "company": "OpenAI",
         "allowed": true,
-        "matched_path": "https://www.bcwebwise.com/"
+        "matched_path": "https://www.abc.com/"
       },
       "ClaudeBot": {
         "company": "Anthropic",
         "allowed": true,
-        "matched_path": "https://www.bcwebwise.com/"
+        "matched_path": "https://www.abc.com/"
       },
       "Google-Extended": {
         "company": "Google",
         "allowed": true,
-        "matched_path": "https://www.bcwebwise.com/"
+        "matched_path": "https://www.abc.com/"
       },
       "Googlebot": {
         "company": "Google Search",
         "allowed": true,
-        "matched_path": "https://www.bcwebwise.com/"
+        "matched_path": "https://www.abc.com/"
       },
       "Google-GeminiNotebook": {
         "company": "Google Gemini Notebook",
         "allowed": true,
-        "matched_path": "https://www.bcwebwise.com/"
+        "matched_path": "https://www.abc.com/"
       },
       "PerplexityBot": {
         "company": "Perplexity",
         "allowed": true,
-        "matched_path": "https://www.bcwebwise.com/"
+        "matched_path": "https://www.abc.com/"
       },
       "Amazonbot": {
         "company": "Amazon",
         "allowed": true,
-        "matched_path": "https://www.bcwebwise.com/"
+        "matched_path": "https://www.abc.com/"
       },
       "Bytespider": {
         "company": "ByteDance",
         "allowed": true,
-        "matched_path": "https://www.bcwebwise.com/"
+        "matched_path": "https://www.abc.com/"
       }
     }
   },
   "sitemap": {
     "found": true,
-    "url": "https://www.bcwebwise.com/sitemap.xml",
+    "url": "https://www.abc.com/sitemap.xml",
     "status_code": 200,
     "is_xml": true,
     "error": null
